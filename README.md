@@ -1,16 +1,6 @@
 # rendom_people_data
 
-A new Flutter project.
+<img src="https://github.com/yugsonani/Rendom_People_Data/assets/121219334/f13b1fab-2cbb-4fd8-9926-58f6ff05da69" height=650px/ >
 
-## Getting Started
+https://github.com/yugsonani/Rendom_People_Data/assets/121219334/29b1bcf3-bc55-4b32-9827-38b5b7efc582
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
